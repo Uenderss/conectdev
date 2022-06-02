@@ -1,0 +1,33 @@
+.header{
+    background-color: red;
+    width: 100%;
+    position: fixed;
+
+}
+
+.toolbar{
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+    height: 64px;
+    
+
+}
+
+.main{
+    height: 100vh;
+    display: flex;
+    width: 1200px;
+    margin:0 auto;
+
+}
+.navbar{
+    background-color: blue;
+    padding: 24px;
+    width: 350px;
+}
+.feed{
+    background-color: yellow;
+    width: 100%;
+    padding: 24px;
+}
